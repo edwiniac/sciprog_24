@@ -3,7 +3,7 @@
 This contains the code in C for practical 4.
 
 ## Files Included
-1. TanArray.c  - 
+1. TanArray.c 
 2. TrapFunction.c 
 
 ## Compile Commands
