@@ -1,23 +1,23 @@
 # Practical 5
 
-This subdirectory contains the code in C for practical 5.
+This contains the code in C for practical 5.
 
 ## Files Included
-1. Fib.c  - Displays fibonacci series upto n numbers
-2. Hyp.c -  Computes hyperbolic arc tangent using 2 methods and compares accuracy
+1. Fib.c 
+2. Hyp.c 
 
 ## Compile Commands
 
 * gcc -o Fib Fib.c
 * gcc -o Hyptan Hyptan.c -lm
 
-## Execution commands and Outputs
+## commands and Outputs
 
 * ./Fib
 
 ```
-Enter the number of Fibonacci elements: 6
-0       1       1       2       3       5 
+Enter the number of Fibonacci elements: 5
+0       1       1       2       3       
 ```
 
 * ./HypTan
