@@ -10,8 +10,8 @@ To compile the code, use the following command:
 
 ```bash
 gcc -o sum sum.c -lm
-
-## Ouput
+```
+## Output
 
 Computed Integral of tan(x) from 0 to PI/3 is 0.695045
 Actual Value should be  0.695045
