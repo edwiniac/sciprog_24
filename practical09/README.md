@@ -1,6 +1,6 @@
 # Practical 9
 
-This subdirectory contains the code in C for practical 8.
+This folder contains the code in C for practical 9.
 
 ## Files Included
 1. main.c  - C program to read a file and check if the matrix contained is a magic square
@@ -16,28 +16,3 @@ This subdirectory contains the code in C for practical 8.
 ## Execution commands and Outputs
 
 * ./main
-
-```
-Enter file name: magic_square.txt
-No. lines, 3
-Matrix from the file:
-2 7 6
-9 5 1
-4 3 8
-The matrix is a magic square
-
-```
-
-```
-Enter file name: not_magic_square.txt
-No. lines, 3
-Matrix from the file:
-1 2 3
-4 5 6
-7 8 9
-Rowsums donot match
-The matrix is not a magic square
-
-
-```
-
